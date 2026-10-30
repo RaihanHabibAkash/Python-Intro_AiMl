@@ -13,3 +13,5 @@
 9. OOP
 10. Numpy-1
 11. Numpy-2
+12. Pandas
+13. Midterm
